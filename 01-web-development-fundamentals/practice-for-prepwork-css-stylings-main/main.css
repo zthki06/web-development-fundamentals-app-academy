@@ -1,0 +1,42 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    margin: 2px;
+    font-weight: bold;
+    text-decoration: tan;
+    color: rebeccapurple;
+}
+
+h2 {
+    padding: 5px;
+    margin: 2px;
+    font-weight: lighter;
+    color: blueviolet;
+}
+
+p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 7px;
+    margin: 3px;
+}
+
+.logo {
+    background-size: cover;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+    background-color: wheat;
+    height: 300px;
+    max-width: 300px;
+    width: 300px;
+    max-width: 300px;
+    margin: 0 auto;
+    padding-top: 5px;
+}
